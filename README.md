@@ -44,7 +44,7 @@ Capstone Project Ini disesuaikan dengan materi pada modul 1 yang harus ada data 
 
 ![Login User Pertama Kali   Tampilan Menu User](https://github.com/justifyesther/justifyester_CapstoneProjectModul1/assets/44887209/ad92c3e1-e5f2-4b07-9f20-683dad9b3aae)
 
-**Menu User : Lihat Menu Makanan **
+**Menu User : Lihat Menu Makanan**
 
 ![Menu User 1 - Lihat Menu Makanan](https://github.com/justifyesther/justifyester_CapstoneProjectModul1/assets/44887209/dde0c71d-4866-489b-9d82-0ebcdecd0fe9)
 
