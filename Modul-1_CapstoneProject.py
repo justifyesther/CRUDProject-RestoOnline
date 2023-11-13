@@ -71,7 +71,13 @@ riwayat_pesanan_admin = [] #Menyimpan riwayat pesanan admin
 pesanan_diproses = False #Menyimpan status apakah pesanan user sudah diproses oleh admin atau belum
 
 def is_valid_integer(input_str):
-    return input_str.isdigit()
+    try:
+        int(input_str)
+        return True
+    except ValueError:
+        return False
+    
+    # return input_str.isdigit()
 
 def is_valid_input(input_str):
     return input_str.strip() != ""
