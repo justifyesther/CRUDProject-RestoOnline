@@ -578,5 +578,4 @@ def main():
             return
 
 # PANGGIL MAIN FUNCTION SAAT MENJALANI PROGRAM
-if __name__ == "__main__":
-    main()
+main()
